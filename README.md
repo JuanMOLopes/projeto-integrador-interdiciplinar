@@ -8,7 +8,7 @@
 
 O projeto visa identificar padrões de sentimento nos comentários e relacioná-los às notas atribuídas pelos compradores, utilizando e comparando técnicas de Análise de Sentimentos em avaliações textuais de clientes com as ferramentas VADER, LeIA e TextBlob.
 
-## **Autor**
+## **Autores**
 
 João Pedro Caçula dos Santos
 
@@ -43,7 +43,7 @@ Certifique-se de ter o **Python** instalado. Em seguida, instale as dependência
 ```bash
 pip install pandas numpy matplotlib seaborn
 pip install vaderSentiment
-pip install LeIA
+pip install leia-br
 pip install textblob
 ```
 
@@ -53,9 +53,11 @@ pip install textblob
 projeto/
 ├── data/
 │   ├── raw/           # CSVs originais (avaliacoes, clientes, pedidos, etc.)
-│   └── processed/     # Arquivo parquet processados
+│   └── processed/     # Arquivos parquet processados
 ├── docs/
-│   ├──
+│   ├── dicionario_de_dados.xlsx
+│   ├── entidade_relacionamento.jpeg
+│   ├── modelo_logico.jpeg
 ├── notebooks/
 │   ├── 01_analise_exploratoria.ipynb
 │   ├── 02_analise_sentimentos.ipynb
@@ -68,7 +70,7 @@ projeto/
 
 Execute os notebooks **na ordem numérica**, pois cada um depende dos dados gerados pelo anterior:
 
-1. `01_analise_exploratoria.ipynb` — Gera `data/processed/avaliacoes.parquet`
+1. `01_analise_exploratoria.ipynb` — Gera `avaliacoes.parquet`
 2. `02_analise_sentimentos.ipynb` — Gera `resultados.parquet`
 3. `03_discussoes.ipynb` — Utiliza os resultados para gerar os gráficos
 
