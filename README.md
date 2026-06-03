@@ -1,8 +1,18 @@
 <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="100" alt="Logo git">
-</div>
 
 # **Análise de Sentimentos em Avaliações de E-commerce**
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
+![VADER](https://img.shields.io/badge/VADER-FF6F00?style=for-the-badge)
+![LeIA](https://img.shields.io/badge/LeIA-00A86B?style=for-the-badge)
+![TextBlob](https://img.shields.io/badge/TextBlob-3498DB?style=for-the-badge)
+
+</div>
 
 ## **Objetivo**
 
