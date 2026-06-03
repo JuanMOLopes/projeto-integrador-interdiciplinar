@@ -11,8 +11,11 @@ O projeto visa identificar padrões de sentimento nos comentários e relacioná-
 ## **Autor**
 
 João Pedro Caçula dos Santos
+
 Juan Matheus de Oliveira Lopes 
+
 Luiz Henrique dos Santos
+
 Patrick Muniz de Aguiar
 
 ## **Disciplina**
