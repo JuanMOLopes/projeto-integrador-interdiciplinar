@@ -58,10 +58,16 @@ projeto/
 │   ├── dicionario_de_dados.xlsx
 │   ├── entidade_relacionamento.jpeg
 │   ├── modelo_logico.jpeg
+├── img/               # Gráficos e icon
+│   ├── comparacao_modelos_real.png                 
+│   ├── comparacao_modelos.png                       
+│   ├── distribuicao_sentimentos_real.png            
+│   ├── logo_python.png
 ├── notebooks/
 │   ├── 01_analise_exploratoria.ipynb
 │   ├── 02_analise_sentimentos.ipynb
 │   ├── 03_discussoes.ipynb
+├── index.html
 ├── README.md
 └── requirements.txt
 ```
